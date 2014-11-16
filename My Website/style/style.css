@@ -1,0 +1,32 @@
+h1 {
+	color:blue;
+	font-size: 70px;
+}
+
+body{
+	/*background-color: rgb(157,50,50);*/
+	
+	/*background-repeat:repeat;*/
+	/*bacground-size:30px 40px;*/
+}
+div{
+	/*border-width: 2px;
+	border-style: solid;*/
+	min-height: 10px;
+	/*margin: 10px;
+	padding: 10px;
+*/	text-align: center;
+}
+div#heading{
+	/*border-width: 2px;
+	border-style: solid;*/
+	background-image: url("../images/books.jpg");
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	/*background-color: rgb(60,60,100);*/
+}
+
+.with_yellow{
+	background-color: yellow;
+}
